@@ -24,4 +24,4 @@ A free, simple, secure and reliable CRUD class
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<username>/<repository>.git
+   git clone https://github.com/RaresRech/Simple-CRUD.git
